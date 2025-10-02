@@ -1,2 +1,6 @@
 Hello hello hello
+<<<<<<< HEAD
 salut salut salut !!
+=======
+hi hi hi !!
+>>>>>>> 03889868f6b39e8c52d99e833d432c4ef29f7fa3
